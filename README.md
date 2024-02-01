@@ -47,8 +47,4 @@ If you'd like to contribute to this repository, feel free to submit pull request
 
 Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive community.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 Happy coding! 🚀
